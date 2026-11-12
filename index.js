@@ -1,8 +1,8 @@
 
 const { Client, GatewayIntentBits } = require("discord.js");
 
-const TOKEN = process.env.DISCORD_TOKEN;
-const CHANNEL_ID = process.env.TARGET_CHANNEL_ID;
+const TOKEN = process.env.MTU3MDI2ODAxMTU2OTYxMDg2Mw.Guzu-L.QnIUW-yb6JUtUtvukgUdipjkzPT9_AGznK7LxU;
+const CHANNEL_ID = process.env.1570267547599900733;
 
 if (!TOKEN || !CHANNEL_ID) {
   throw new Error("Missing bot token or security channel ID!");
